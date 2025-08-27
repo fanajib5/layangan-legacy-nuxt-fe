@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -74,7 +73,3 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-=======
-# layangan-legacy-nuxt-fe
-Ini adalah frontend web menggunakan nuxt untuk layangan legacy
->>>>>>> 7750655c958af4c9b26bade8bd9e27fb712d0688
